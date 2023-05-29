@@ -1,5 +1,3 @@
-# Learn for Flutter
-
 ## Hello World 앱 제작하기
 - 완료
 
@@ -14,6 +12,8 @@
 - Column Widget 사용 : 완료
 - Hex Code 색상 사용 : 완료
 
+<br>
+
 ## Row and Column 학습 & 실습
 `Path : lib/screen/row_column`
 
@@ -23,7 +23,7 @@
 - Expanded & Flexible Widget 사용 : 완료
 - 실습 과제 : 완료
 
-![img](https://raw.githubusercontent.com/spacedustz/Obsidian-Image-Server/main/img/splashdone.png)
+<img src="https://raw.githubusercontent.com/spacedustz/Obsidian-Image-Server/main/img/splashdone.png" height="50%" width="50%" />
 
 <br>
 
